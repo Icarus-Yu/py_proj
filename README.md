@@ -1,2 +1,2 @@
 # py_proj
-python个人学西仓库
+python个人学习仓库
